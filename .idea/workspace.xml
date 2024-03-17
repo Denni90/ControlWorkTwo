@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="da7c6ccf-6e36-4fb1-a7b7-6b9843f523a0" name="Changes" comment="" />
+    <list default="true" id="da7c6ccf-6e36-4fb1-a7b7-6b9843f523a0" name="Changes" comment="Create controlwork">
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,9 +25,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
@@ -38,6 +42,19 @@
       <option name="presentableId" value="Default" />
       <updated>1710660362464</updated>
     </task>
+    <task id="LOCAL-00001" summary="Create controlwork">
+      <option name="closed" value="true" />
+      <created>1710660434858</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1710660434858</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Create controlwork" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create controlwork" />
   </component>
 </project>
